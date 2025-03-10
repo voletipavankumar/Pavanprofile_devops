@@ -12,8 +12,9 @@ Hello all, this is my profile
 - 💬 Ask me about **AWS Devops with CI/CD pipeline using Jenkins, maven,ngenix**
 
 - 📫 How to reach me **pavanvoleti92@gmail.com** and **+91 9014883088**
-- Skills : ***Devops CI/CD pipeline with Jenkins** **Certified as ALTERYX CORE DESIGNER** **AWS,Azure,GCP**
-- 
+- Skills : **Devops CI/CD pipeline with Jenkins** ; **Certified as ALTERYX CORE DESIGNER** ; **AWS,Azure,GCP**
+- Study : **B.TECH in Electrical and Electronics Engineering from Sri Chaitanya engineering college, Kommadi, JNTUK**; **Diploma in Electrical and Electronics Engineering from V.K.R & V.N.B Polytechnic college, Gudivada**
+-  having passport: **Yes**       
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
