@@ -3,7 +3,7 @@ Hello all, this is my profile
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
 <h3 align="center">A dynamic professional with 8+ years of experience in KYC, AML, CDD and Screening, across Retail and Corporate banking segments with exposure to APAC, EMEA regions and utilize my knowledge of various CI/CD tools of Devops (GIT, Jenkins, Maven, Docker, Ansible, Kubernetes, AWS) for the growth of the organization and Certified as ALTERYX CORE DESIGNER</h3>
 
-- 🔭 I’m currently working on JP MORGAN CHASE & CO **CIB**
+- 🔭 I’m currently working on **JP MORGAN CHASE & CO** in CIB team
 
 - 🌱 I’m currently learning **service now,phython**
 
