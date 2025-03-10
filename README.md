@@ -7,7 +7,7 @@ Hello all, this is my profile
 
 - 🌱 I’m currently learning **service now,phython**
 
-- previously worked in HSBC **as a AML analyst**
+- previously worked in **HSBC** 
 
 - 💬 Ask me about **AWS Devops with CI/CD pipeline using Jenkins, maven,ngenix**
 
