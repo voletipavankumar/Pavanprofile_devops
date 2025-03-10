@@ -14,7 +14,9 @@ Hello all, this is my profile
 - 📫 How to reach me **pavanvoleti92@gmail.com** and **+91 9014883088**
 - Skills : **Devops CI/CD pipeline with Jenkins** ; **Certified as ALTERYX CORE DESIGNER** ; **AWS,Azure,GCP**
 - Study : **B.TECH in Electrical and Electronics Engineering from Sri Chaitanya engineering college, Kommadi, JNTUK**; **Diploma in Electrical and Electronics Engineering from V.K.R & V.N.B Polytechnic college, Gudivada**
--  having passport: **Yes**       
+-  having passport: **Yes**
+-  if you need more information about me please reach me through mail or phone.
+-  **I am looking for the role**   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
