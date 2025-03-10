@@ -1,5 +1,5 @@
 # Readme.md
-Please click for more detail about my profile.
+Please click here for more detail about my profile.
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
 <h3 align="center">A dynamic professional with 8+ years of experience in KYC, AML, CDD and Screening, across Retail and Corporate banking segments with exposure to APAC, EMEA regions and utilize my knowledge of various CI/CD tools of Devops (GIT, Jenkins, Maven, Docker, Ansible, Kubernetes, AWS) for the growth of the organization and Certified as ALTERYX CORE DESIGNER</h3>
 
